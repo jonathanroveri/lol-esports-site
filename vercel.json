@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "pages/index.js",
-      "use": "@vercel/static"
+      "use": "@vercel/next"
     }
   ]
 }
