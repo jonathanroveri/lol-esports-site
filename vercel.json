@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "public/lolesports.js",
+      "use": "@vercel/static"
+    }
+  ]
+}
