@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "public/lolesports.js",
+      "src": "pages/index.js",
       "use": "@vercel/static"
     }
   ]
