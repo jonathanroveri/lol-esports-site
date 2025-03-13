@@ -1,0 +1,25 @@
+{
+  "name": "lol-esports",
+  "version": "1.0.0",
+  "description": "Projeto de LoL eSports",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "framer-motion": "^6.1.5",
+    "@/components/ui/card": "^1.0.0", 
+    "@/components/ui/button": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^11.1.2"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
